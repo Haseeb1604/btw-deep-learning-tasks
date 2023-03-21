@@ -34,4 +34,3 @@ print(f"Elapsed time: {elapsed_time:.2f} seconds")
 # Output
 # Please enter a valid integer age
 # Elapsed time: 0.00 seconds
-
