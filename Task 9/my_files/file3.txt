@@ -1,0 +1,3 @@
+This is some text for file3.txt.
+And another line for good measure.
+Bytewise Task for filehandling
