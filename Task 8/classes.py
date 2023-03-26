@@ -19,3 +19,5 @@ my_dog = Dog("Buddy", "Golden Retriever")
 # We can then call the bark() method on the my_dog instance to make it bark:
 my_dog.bark()
 # Output: Buddy barks!
+
+# -----------------------------------------------------------------
